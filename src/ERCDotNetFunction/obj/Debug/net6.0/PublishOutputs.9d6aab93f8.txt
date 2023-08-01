@@ -1,0 +1,11 @@
+C:\AWS Exploration\DotNet Lambda\ERCDotNetFunction\src\ERCDotNetFunction\bin\Debug\net6.0\publish\ERCDotNetFunction.dll
+C:\AWS Exploration\DotNet Lambda\ERCDotNetFunction\src\ERCDotNetFunction\bin\Debug\net6.0\publish\ERCDotNetFunction.deps.json
+C:\AWS Exploration\DotNet Lambda\ERCDotNetFunction\src\ERCDotNetFunction\bin\Debug\net6.0\publish\ERCDotNetFunction.runtimeconfig.json
+C:\AWS Exploration\DotNet Lambda\ERCDotNetFunction\src\ERCDotNetFunction\bin\Debug\net6.0\publish\ERCDotNetFunction.pdb
+C:\AWS Exploration\DotNet Lambda\ERCDotNetFunction\src\ERCDotNetFunction\bin\Debug\net6.0\publish\Amazon.Lambda.Core.dll
+C:\AWS Exploration\DotNet Lambda\ERCDotNetFunction\src\ERCDotNetFunction\bin\Debug\net6.0\publish\Amazon.Lambda.Serialization.SystemTextJson.dll
+C:\AWS Exploration\DotNet Lambda\ERCDotNetFunction\src\ERCDotNetFunction\bin\Debug\net6.0\publish\Amazon.Lambda.TestUtilities.dll
+C:\AWS Exploration\DotNet Lambda\ERCDotNetFunction\src\ERCDotNetFunction\bin\Debug\net6.0\publish\AWSSDK.Core.dll
+C:\AWS Exploration\DotNet Lambda\ERCDotNetFunction\src\ERCDotNetFunction\bin\Debug\net6.0\publish\AWSSDK.KeyManagementService.dll
+C:\AWS Exploration\DotNet Lambda\ERCDotNetFunction\src\ERCDotNetFunction\bin\Debug\net6.0\publish\AWSSDK.SQS.dll
+C:\AWS Exploration\DotNet Lambda\ERCDotNetFunction\src\ERCDotNetFunction\bin\Debug\net6.0\publish\Newtonsoft.Json.dll
